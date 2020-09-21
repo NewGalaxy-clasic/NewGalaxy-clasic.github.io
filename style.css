@@ -8,7 +8,7 @@ body {
     left: 30%; /* Расстояние от правого края окна браузера */
     top: 35%; /* Расстояние сверху */
     width: 40%;
-    height: 30%;
+    height: 20%;
   
     background: rgb(213,218,92);
     background: radial-gradient(circle, rgba(120,120,120,0.7) 12%, rgba(60,60,60,0.6) 78%);
