@@ -6,7 +6,7 @@ body {
 .menu {
     position: fixed; /* Фиксированное положение */
     left: 30%; /* Расстояние от правого края окна браузера */
-    top: 35%; /* Расстояние сверху */
+    top: 40%; /* Расстояние сверху */
     width: 40%;
     height: 20%;
   
@@ -19,7 +19,7 @@ body {
 .line {
     position: absolute; /* Фиксированное положение */
     left: 10%; /* Расстояние от правого края окна браузера */
-    top: 65%; /* Расстояние сверху */
+    top: 57%; /* Расстояние сверху */
     width: 80%;
     height: 1%;
   
@@ -30,7 +30,7 @@ body {
 .title {
     margin: 0;
     position: absolute;
-    top: 45%;
+    top: 30%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
@@ -71,7 +71,7 @@ body {
     margin: 0;
     position: absolute;
     top: 95%;
-    left: 95%;
+    left: 93%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
     color: #fff;
